@@ -1,2 +1,2 @@
 # foodmate
-Hotels Display Page with menu's
+Hotels Display Page and food ordering page with pdf download.
